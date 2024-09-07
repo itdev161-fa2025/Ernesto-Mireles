@@ -1,0 +1,3 @@
+{
+"mongoURI": "mongodb+srv://mireleej:<db_password>@cluster0.kdnvq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
